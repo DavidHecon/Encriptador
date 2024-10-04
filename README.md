@@ -1,4 +1,4 @@
-Encriptador de texto
+<h1>Encriptador de texto</h1>
 
 Tus secretos estan seguros, con esta herramienta podras tranformar tus texto a un formato ilegible como poder traducirlo, usalo con responsabilidad.
 
